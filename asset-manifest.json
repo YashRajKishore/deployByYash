@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deployByYash/static/css/main.e6c13ad2.css",
+    "main.js": "/deployByYash/static/js/main.15649a32.js",
+    "static/js/453.6d0e4ec0.chunk.js": "/deployByYash/static/js/453.6d0e4ec0.chunk.js",
+    "index.html": "/deployByYash/index.html",
+    "main.e6c13ad2.css.map": "/deployByYash/static/css/main.e6c13ad2.css.map",
+    "main.15649a32.js.map": "/deployByYash/static/js/main.15649a32.js.map",
+    "453.6d0e4ec0.chunk.js.map": "/deployByYash/static/js/453.6d0e4ec0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.15649a32.js"
+  ]
+}
